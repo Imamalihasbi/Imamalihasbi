@@ -18,9 +18,6 @@ mostly building things i'd want to use myself.
 #### what i work with
 <img src="https://skillicons.dev/icons?i=nextjs,ts,react,tailwind,prisma,postgres,nodejs,git,vscode&theme=light" />
 
----
-
-#### what i work with
 ![Next.js](https://img.shields.io/badge/next.js-606c38?style=flat-square&logo=next.js&logoColor=fefae0)
 ![TypeScript](https://img.shields.io/badge/typescript-606c38?style=flat-square&logo=typescript&logoColor=fefae0)
 ![React](https://img.shields.io/badge/react-606c38?style=flat-square&logo=react&logoColor=fefae0)

@@ -31,8 +31,8 @@ mostly building things i'd want to use myself.
 
 ---
 
-#### today's thought
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
+#### contribution graph
+<img src="https://raw.githubusercontent.com/imamalihasbi/imamalihasbi/output/snake.svg" />
 
 ---
 

@@ -31,8 +31,8 @@ mostly building things i'd want to use myself.
 
 ---
 
-#### visits
-<img src="https://komarev.com/ghpvc/?username=imamalihasbi&label=profile%20views&color=606c38&style=flat" />
+#### today's thought
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
 
 ---
 

@@ -20,9 +20,9 @@ mostly building things i'd want to use myself.
 ---
 
 #### stats
-<a href="https://github.com/Imamalihasbi">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Imamalihasbi&show_icons=true&hide_border=true&title_color=606c38&icon_color=bc6c25&text_color=283618&bg_color=fefae0" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imamalihasbi&layout=compact&hide_border=true&title_color=606c38&text_color=283618&bg_color=fefae0" />
+<a href="https://github.com/imamalihasbi">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=imamalihasbi&show_icons=true&hide_border=true&title_color=606c38&icon_color=bc6c25&text_color=283618&bg_color=fefae0" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imamalihasbi&layout=compact&hide_border=true&title_color=606c38&text_color=283618&bg_color=fefae0" />
 </a>
 
 ---

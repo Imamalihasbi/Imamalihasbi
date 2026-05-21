@@ -21,7 +21,7 @@ mostly building things i'd want to use myself.
 
 #### stats
 <a href="https://github.com/imamalihasbi">
-  <img height="160em" src="https://gh-stats.fly.dev/api?username=imamalihasbi&theme=light&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=imamalihasbi&theme=transparent&hide_border=true&background=fefae0&stroke=606c38&ring=bc6c25&fire=bc6c25&currStreakNum=283618&sideNums=283618&currStreakLabel=606c38&sideLabels=606c38&dates=606c38&excludeDaysLabel=606c38" />
 </a>
 
 ---

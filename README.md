@@ -31,6 +31,11 @@ mostly building things i'd want to use myself.
 
 ---
 
+#### visits
+<img src="https://komarev.com/ghpvc/?username=imamalihasbi&label=profile%20views&color=606c38&style=flat" />
+
+---
+
 #### currently listening
 <a href="https://open.spotify.com/user/31kiblkcfx5uco4z2tg4uiat7gry">
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31kiblkcfx5uco4z2tg4uiat7gry&cover_image=true&theme=novatorem&show_offline=true&background_color=fefae0&interchange=false&bar_color=606c38&bar_color_cover=false" />

@@ -32,7 +32,7 @@ mostly building things i'd want to use myself.
 ---
 
 #### contribution graph
-<img src="https://raw.githubusercontent.com/Imamalihasbi/Imamalihasbi/output/snake.svg" />
+<img src="https://raw.githubusercontent.com/Imamalihasbi/output/snake.svg" />
 
 ---
 

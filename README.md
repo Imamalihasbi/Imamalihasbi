@@ -26,6 +26,11 @@ mostly building things i'd want to use myself.
 
 ---
 
+#### activity
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=imamalihasbi&bg_color=fefae0&color=283618&line=606c38&point=bc6c25&area=true&hide_border=true" />
+
+---
+
 #### currently listening
 <a href="https://open.spotify.com/user/31kiblkcfx5uco4z2tg4uiat7gry">
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31kiblkcfx5uco4z2tg4uiat7gry&cover_image=true&theme=novatorem&show_offline=true&background_color=fefae0&interchange=false&bar_color=606c38&bar_color_cover=false" />
